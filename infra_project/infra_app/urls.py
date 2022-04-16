@@ -9,3 +9,5 @@ urlpatterns = [
     path('second/', views.second_page, name='second_page'),
 
 ]
+
+# мой комментарий
